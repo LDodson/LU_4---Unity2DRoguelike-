@@ -7,7 +7,7 @@ Useful and Relevant links:
 * [Unity Documentation](https://docs.unity3d.com/Manual/index.html)
 
 #### 05/25/2017 - 11:00am
-The initial commit includes entire project as of the comletion of:  
+The initial commit includes entire project as of the completion of:  
 1. Setup and Assets 
 * [1. Project Introduction](https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/project-introduction?playlist=17150)
 * [2. Player and Enemy Animations](https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/player-and-enemy-animations?playlist=17150)
